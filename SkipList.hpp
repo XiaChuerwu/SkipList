@@ -1,3 +1,10 @@
+/*
+ * @Author: XiaChuerwu 1206575349@qq.com
+ * @Date: 2023-09-06 21:34:29
+ * @LastEditors: XiaChuerwu 1206575349@qq.com
+ * @LastEditTime: 2023-09-07 10:17:50
+ * @FilePath: \SkipList\main.cpp
+ */
 #ifndef __SKIPLIST_H__
 #define __SKIPLIST_H__
 
